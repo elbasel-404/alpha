@@ -4,7 +4,8 @@
 https://github.com/microsoft/TypeScript 
 https://github.com/facebook/react 
 https://github.com/vercel/next.js 
-https://github.com/shadcn-ui/ui 
+https://github.com/shadcn-ui/ui
+https://github.com/pmndrs/jotai
 
 ## Fetch
 https://github.com/vercel/swr
@@ -28,6 +29,9 @@ https://github.com/jestjs/jest
 
 ## Validate
 https://github.com/colinhacks/zod
+
+## Authenticate
+https://github.com/nextauthjs/next-auth
 
 ## Animate
 https://github.com/Wombosvideo/tw-animate-css
