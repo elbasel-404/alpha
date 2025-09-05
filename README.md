@@ -26,6 +26,9 @@ https://github.com/vercel/turborepo
 ## Test
 https://github.com/jestjs/jest
 
+## Animate
+https://github.com/Wombosvideo/tw-animate-css
+
 # TODO:
 - Add a logging solution
 - Add a monitoring solution
