@@ -23,11 +23,12 @@
 - https://github.com/shadcn-ui/ui
 - https://github.com/pmndrs/jotai
 - https://github.com/vercel/swr
-- https://github.com/unjs/unstorage
 - https://github.com/jestjs/jest
 - https://github.com/nextauthjs/next-auth
 - https://github.com/Wombosvideo/tw-animate-css
 - https://github.com/colinhacks/zod
+- https://github.com/unjs/unstorage
+- https://github.com/prisma/prisma
 
 ## Doc
 - https://github.com/mdx-js/mdx 
