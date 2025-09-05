@@ -1,5 +1,5 @@
-# [alpha](https://github.com/elbasel42/alpha)
-# [beta](https://github.com/elbasel42/beta)
+# [α](https://github.com/elbasel42/alpha)
+# [β](https://github.com/elbasel42/beta)
 
 ## Operate
 - https://github.com/NixOS/nix
