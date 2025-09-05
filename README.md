@@ -6,6 +6,9 @@
 - https://github.com/NixOS/nix
 - https://github.com/hyprwm/Hyprland
 - https://github.com/kovidgoyal/kitty
+- https://github.com/tmux/tmux
+- https://github.com/ohmyzsh/ohmyzsh
+- https://github.com/atuinsh/atuin
 
 ## Script
 - https://github.com/google/zx
@@ -31,6 +34,9 @@
 - https://github.com/colinhacks/zod
 - https://github.com/unjs/unstorage
 - https://github.com/prisma/prisma
+- https://github.com/git/git
+- https://github.com/cli/cli
+- https://github.com/postmanlabs/newman
 
 ## Doc
 - https://github.com/mdx-js/mdx 
