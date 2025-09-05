@@ -10,6 +10,9 @@
 - https://github.com/ohmyzsh/ohmyzsh
 - https://github.com/atuinsh/atuin
 
+## Automate
+- https://github.com/microsoft/genaiscript
+
 ## Script
 - https://github.com/google/zx
 - https://github.com/oven-sh/bun
