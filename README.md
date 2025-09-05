@@ -50,5 +50,5 @@
 - https://github.com/zen-browser/desktop
 
 # TODO:
-- Add a logging solution
-- Add a monitoring solution # possible https://github.com/getsentry/sentry
+- build>log
+- build>moniter # possible https://github.com/getsentry/sentry
