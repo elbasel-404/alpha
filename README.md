@@ -35,6 +35,10 @@ https://github.com/Wombosvideo/tw-animate-css
 ## Browse
 https://github.com/philc/vimium
 
+## Operate
+https://github.com/NixOS/nix
+https://github.com/hyprwm/Hyprland 
+
 # TODO:
 - Add a logging solution
 - Add a monitoring solution
