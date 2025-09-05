@@ -41,4 +41,4 @@ https://github.com/hyprwm/Hyprland
 
 # TODO:
 - Add a logging solution
-- Add a monitoring solution
+- Add a monitoring solution # possible https://github.com/getsentry/sentry
