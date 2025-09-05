@@ -1,30 +1,30 @@
 # alpha
 
 ## Build
-https://github.com/microsoft/TypeScript
-https://github.com/facebook/react
-https://github.com/vercel/next.js
-https://github.com/shadcn-ui/ui
+[TypeScript](https://github.com/microsoft/TypeScript)
+[React](https://github.com/facebook/react)
+[Next.js](https://github.com/vercel/next.js)
+[shadcn/ui](https://github.com/shadcn-ui/ui)
 
 ## Fetch
-https://github.com/vercel/swr
+[SWR](https://github.com/vercel/swr)
 
 ## Doc
-https://github.com/mdx-js/mdx
-https://github.com/olivierlacan/keep-a-changelog
+[MDX](https://github.com/mdx-js/mdx)
+[Keep a Changelog](https://github.com/olivierlacan/keep-a-changelog)
 
 ## Store
-https://github.com/unjs/unstorage
+[unstorage](https://github.com/unjs/unstorage)
 
 ## Prototype
-https://github.com/lukehaas/RunJS
+[RunJS](https://github.com/lukehaas/RunJS)
 
 ## Package
-https://github.com/pnpm/pnpm
-https://github.com/vercel/turborepo
+[pnpm](https://github.com/pnpm/pnpm)
+[Turborepo](https://github.com/vercel/turborepo)
 
 ## Test
-https://github.com/jestjs/jest
+[Jest](https://github.com/jestjs/jest)
 
 # TODO:
 - Add a logging solution
