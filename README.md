@@ -32,6 +32,9 @@ https://github.com/colinhacks/zod
 ## Animate
 https://github.com/Wombosvideo/tw-animate-css
 
+## Browse
+https://github.com/philc/vimium
+
 # TODO:
 - Add a logging solution
 - Add a monitoring solution
