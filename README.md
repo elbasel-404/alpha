@@ -1,47 +1,59 @@
 # alpha
 
-## Build
-https://github.com/microsoft/TypeScript 
-https://github.com/facebook/react 
-https://github.com/vercel/next.js 
-https://github.com/shadcn-ui/ui
-https://github.com/pmndrs/jotai
+## Operate
+- https://github.com/NixOS/nix
+- https://github.com/hyprwm/Hyprland
+- https://github.com/kovidgoyal/kitty
 
-## Fetch
-https://github.com/vercel/swr
+## Script
+- https://github.com/google/zx
+- https://github.com/oven-sh/bun
+
+## Code
+- https://github.com/microsoft/vscode
+- https://github.com/eslint/eslint
+- https://github.com/prettier/prettier
+- https://github.com/neovim/neovim
+- https://github.com/nyoom-engineering/oxocarbon.nvim
+
+## Build
+- https://github.com/microsoft/TypeScript
+- https://github.com/facebook/react
+- https://github.com/vercel/next.js 
+- https://github.com/shadcn-ui/ui
+- https://github.com/pmndrs/jotai
+- https://github.com/vercel/swr
+- https://github.com/unjs/unstorage
+- https://github.com/jestjs/jest
 
 ## Doc
-https://github.com/mdx-js/mdx 
-https://github.com/olivierlacan/keep-a-changelog
-
-## Store
-https://github.com/unjs/unstorage
-
-## Prototype
-https://github.com/lukehaas/RunJS
+- https://github.com/mdx-js/mdx 
+- https://github.com/olivierlacan/keep-a-changelog
 
 ## Package
-https://github.com/pnpm/pnpm 
-https://github.com/vercel/turborepo
+- https://github.com/pnpm/pnpm 
+- https://github.com/vercel/turborepo
 
-## Test
-https://github.com/jestjs/jest
+## Deploy
+- https://github.com/docker/compose
+- https://github.com/vercel/vercel
+
+## Prototype
+- https://github.com/lukehaas/RunJS
 
 ## Validate
-https://github.com/colinhacks/zod
+- https://github.com/colinhacks/zod
 
 ## Authenticate
-https://github.com/nextauthjs/next-auth
+- https://github.com/nextauthjs/next-auth
 
 ## Animate
-https://github.com/Wombosvideo/tw-animate-css
+- https://github.com/Wombosvideo/tw-animate-css
 
 ## Browse
-https://github.com/philc/vimium
-
-## Operate
-https://github.com/NixOS/nix 
-https://github.com/hyprwm/Hyprland 
+- https://github.com/philc/vimium
+- https://github.com/mozilla-firefox/firefox
+- https://github.com/zen-browser/desktop
 
 # TODO:
 - Add a logging solution
